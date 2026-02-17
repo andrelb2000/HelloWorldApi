@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GITHUB\\HelloWorldAPi\\HelloWorldAPi.csproj": {}
+    "C:\\GITHUB\\HelloWorldApi\\HelloWorldAPi.csproj": {}
   },
   "projects": {
-    "C:\\GITHUB\\HelloWorldAPi\\HelloWorldAPi.csproj": {
+    "C:\\GITHUB\\HelloWorldApi\\HelloWorldAPi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GITHUB\\HelloWorldAPi\\HelloWorldAPi.csproj",
+        "projectUniqueName": "C:\\GITHUB\\HelloWorldApi\\HelloWorldAPi.csproj",
         "projectName": "HelloWorldAPi",
-        "projectPath": "C:\\GITHUB\\HelloWorldAPi\\HelloWorldAPi.csproj",
+        "projectPath": "C:\\GITHUB\\HelloWorldApi\\HelloWorldAPi.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\GITHUB\\HelloWorldAPi\\obj\\",
+        "outputPath": "C:\\GITHUB\\HelloWorldApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
